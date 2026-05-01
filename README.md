@@ -16,7 +16,7 @@ I'm an aspiring full-stack developer and a tech all-rounder, skilled in everythi
 - 🌱 I’m currently learning more about **Cloud Technologies and System Design**.
 - 👯 I’m looking to collaborate on **open-source projects related to web development**.
 - 💬 Ask me about **React, JavaScript, Python, and UI/UX design**.
-- 📫 How to reach me: **sachinsharma@example.com** - ⚡ Fun fact: I believe `CSS` is a programming language.
+- 📫 How to reach me: <a href="mailto:sachinsthug@gmail.com">**sachinsthug@gmail.com**</a> - ⚡ Fun fact: I believe `CSS` is a programming language.
 
 ---
 
@@ -100,7 +100,6 @@ I'm an aspiring full-stack developer and a tech all-rounder, skilled in everythi
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinSharma8742&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinSharma8742&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSharma8742&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
