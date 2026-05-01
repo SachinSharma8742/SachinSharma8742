@@ -116,10 +116,4 @@ I'm an aspiring full-stack developer and a tech all-rounder, skilled in everythi
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SachinSharma8742&icon=0&color=1" alt="Visitor Count" />
-</p>
 
-<div align="center">
-  <img src="https://github.com/SachinSharma8742/SachinSharma8742/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</div>
