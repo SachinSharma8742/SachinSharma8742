@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/SachinSharma8742">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+      <img alt="GitHub Profile README" src="light.svg">
+    </picture>
+  </a>
+</p>
+
+---
+
 <h1 align="center">Hi there, I'm Sachin Sharma 👋</h1>
 <h3 align="center">A passionate developer, designer, and lifelong learner from India</h3>
 
